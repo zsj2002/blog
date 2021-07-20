@@ -2,8 +2,8 @@
 
  <g>
   <title>Layer 1</title>
-  <ellipse ry="85" rx="161" id="svg_1" cy="324" cx="345" stroke="#000" fill="#fff"/>
-  <ellipse ry="17" rx="23.5" id="svg_2" cy="327" cx="284.5" stroke="#000" fill="#fff"/>
-  <ellipse ry="19" rx="23" id="svg_3" cy="326" cx="401" stroke="#000" fill="#fff"/>
+  <ellipse ry="85" rx="161" id="svg_1" cy="324" cx="345" stroke="#888" fill="#fff"/>
+  <ellipse ry="17" rx="23.5" id="svg_2" cy="327" cx="284.5" stroke="#888" fill="#fff"/>
+  <ellipse ry="19" rx="23" id="svg_3" cy="326" cx="401" stroke="#888" fill="#fff"/>
  </g>
 </svg>
